@@ -1,0 +1,14 @@
+C:\Users\luisotaviob\Desktop\FinderUp\Finder.Api\Finder.Core\bin\Debug\netcoreapp3.1\Finder.Core.exe
+C:\Users\luisotaviob\Desktop\FinderUp\Finder.Api\Finder.Core\bin\Debug\netcoreapp3.1\Finder.Core.deps.json
+C:\Users\luisotaviob\Desktop\FinderUp\Finder.Api\Finder.Core\bin\Debug\netcoreapp3.1\Finder.Core.runtimeconfig.json
+C:\Users\luisotaviob\Desktop\FinderUp\Finder.Api\Finder.Core\bin\Debug\netcoreapp3.1\Finder.Core.runtimeconfig.dev.json
+C:\Users\luisotaviob\Desktop\FinderUp\Finder.Api\Finder.Core\bin\Debug\netcoreapp3.1\Finder.Core.dll
+C:\Users\luisotaviob\Desktop\FinderUp\Finder.Api\Finder.Core\bin\Debug\netcoreapp3.1\Finder.Core.pdb
+C:\Users\luisotaviob\Desktop\FinderUp\Finder.Api\Finder.Core\obj\Debug\netcoreapp3.1\Finder.Core.csproj.AssemblyReference.cache
+C:\Users\luisotaviob\Desktop\FinderUp\Finder.Api\Finder.Core\obj\Debug\netcoreapp3.1\Finder.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisotaviob\Desktop\FinderUp\Finder.Api\Finder.Core\obj\Debug\netcoreapp3.1\Finder.Core.AssemblyInfoInputs.cache
+C:\Users\luisotaviob\Desktop\FinderUp\Finder.Api\Finder.Core\obj\Debug\netcoreapp3.1\Finder.Core.AssemblyInfo.cs
+C:\Users\luisotaviob\Desktop\FinderUp\Finder.Api\Finder.Core\obj\Debug\netcoreapp3.1\Finder.Core.csproj.CoreCompileInputs.cache
+C:\Users\luisotaviob\Desktop\FinderUp\Finder.Api\Finder.Core\obj\Debug\netcoreapp3.1\Finder.Core.dll
+C:\Users\luisotaviob\Desktop\FinderUp\Finder.Api\Finder.Core\obj\Debug\netcoreapp3.1\Finder.Core.pdb
+C:\Users\luisotaviob\Desktop\FinderUp\Finder.Api\Finder.Core\obj\Debug\netcoreapp3.1\Finder.Core.genruntimeconfig.cache
